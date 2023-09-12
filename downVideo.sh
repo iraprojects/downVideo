@@ -1,6 +1,6 @@
 #!/bin/bash
 
-archivo_enlaces="C:/Users/kris_/Desktop/enlaces.txt"
+archivo_enlaces=""
 dos2unix $archivo_enlaces
 
 carpeta_destino=""
